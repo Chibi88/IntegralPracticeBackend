@@ -1,0 +1,159 @@
+[2021-09-2917:07:07] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-09-2917:48:48] [ ERROR] [GlobalExceptionHandler:21] Paciente no encontrado
+[2021-09-2918:12:10] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-09-2918:14:09] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-09-2918:14:12] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-09-2918:14:25] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-09-2918:41:46] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-09-2918:42:25] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-09-2918:46:41] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-09-2923:43:35] [ ERROR] [GlobalExceptionHandler:21] Request method 'PUT' not supported
+[2021-09-2923:43:51] [ ERROR] [GlobalExceptionHandler:21] Request method 'PUT' not supported
+[2021-09-3012:35:48] [ ERROR] [GlobalExceptionHandler:21] Request method 'PUT' not supported
+[2021-09-3013:59:08] [ DEBUG] [Logueos:42] Modificando paciente existente
+[2021-09-3014:00:19] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3014:36:19] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3014:42:16] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3014:42:24] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3014:45:23] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3014:45:51] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3014:45:57] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3015:06:44] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3015:10:15] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3015:10:54] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3015:59:37] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:00:00] [ DEBUG] [Logueos:27] Registrando paciente nuevo
+[2021-09-3016:00:00] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:00:21] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:00:45] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:01:00] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:02:28] [ DEBUG] [Logueos:42] Modificando paciente existente
+[2021-09-3016:05:39] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:05:59] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:06:20] [ DEBUG] [Logueos:42] Modificando paciente existente
+[2021-09-3016:06:20] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:06:31] [ DEBUG] [Logueos:55] Eliminando paciente..
+[2021-09-3016:06:31] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:06:34] [ DEBUG] [Logueos:55] Eliminando paciente..
+[2021-09-3016:06:35] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:06:45] [ DEBUG] [Logueos:55] Eliminando paciente..
+[2021-09-3016:06:45] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:06:53] [ DEBUG] [Logueos:55] Eliminando paciente..
+[2021-09-3016:06:53] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:07:47] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:20:44] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:20:45] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:21:30] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:21:35] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:21:39] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:30:17] [ DEBUG] [Logueos:27] Registrando paciente nuevo
+[2021-09-3016:30:17] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:30:33] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3016:31:00] [ DEBUG] [Logueos:42] Modificando paciente existente
+[2021-09-3016:31:00] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3018:18:16] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3019:46:16] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-09-3019:46:16] [ ERROR] [GlobalExceptionHandler:21] Paciente no encontrado
+[2021-09-3019:46:40] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3019:46:50] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-09-3019:52:22] [ DEBUG] [Logueos:27] Registrando paciente nuevo
+[2021-09-3019:52:22] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3020:03:20] [ ERROR] [GlobalExceptionHandler:21] Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+[2021-09-3020:13:49] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3020:48:09] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-09-3021:31:50] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-10-0109:19:54] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-10-0110:36:22] [ ERROR] [GlobalExceptionHandler:21] Required request parameter 'apellido' for method parameter type String is not present
+[2021-10-0110:38:16] [ ERROR] [GlobalExceptionHandler:21] Required request parameter 'apellido' for method parameter type String is not present
+[2021-10-0110:38:39] [ ERROR] [GlobalExceptionHandler:21] Required request parameter 'apellido' for method parameter type String is not present
+[2021-10-0110:43:26] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0110:43:40] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0110:43:51] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0110:44:32] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-10-0110:46:18] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-10-0111:19:13] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:25:19] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:27:29] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:28:08] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:28:19] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:28:30] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:29:38] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:32:18] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:32:25] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-10-0111:32:45] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-10-0111:32:53] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-10-0111:33:02] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:33:15] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0111:33:24] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-10-0112:56:17] [ ERROR] [GlobalExceptionHandler:21] JSON parse error: Cannot construct instance of `com.example.demo.model.Paciente` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('Chibi'); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.example.demo.model.Paciente` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('Chibi')
+ at [Source: (PushbackInputStream); line: 3, column: 18] (through reference chain: com.example.demo.model.Turno["paciente"])
+[2021-10-0112:56:40] [ ERROR] [GlobalExceptionHandler:21] Unable to find com.example.demo.model.Odontologo with id 98; nested exception is javax.persistence.EntityNotFoundException: Unable to find com.example.demo.model.Odontologo with id 98
+[2021-10-0112:57:48] [ DEBUG] [Logs turnos:29] Registrando turno nuevo
+[2021-10-0112:58:34] [ DEBUG] [Logs turnos:29] Registrando turno nuevo
+[2021-10-0112:58:52] [ ERROR] [GlobalExceptionHandler:21] Unable to find com.example.demo.model.Paciente with id 69; nested exception is javax.persistence.EntityNotFoundException: Unable to find com.example.demo.model.Paciente with id 69
+[2021-10-0112:59:00] [ DEBUG] [Logs turnos:29] Registrando turno nuevo
+[2021-10-0113:09:50] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-10-0113:10:13] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-10-0113:10:13] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-10-0113:16:40] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0113:16:54] [ DEBUG] [Logs turnos:29] Registrando turno nuevo
+[2021-10-0113:17:13] [ DEBUG] [Logs turnos:29] Registrando turno nuevo
+[2021-10-0113:59:20] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0114:06:51] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0114:07:22] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0114:14:05] [ DEBUG] [Logueos:27] Registrando paciente nuevo
+[2021-10-0114:14:05] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0114:27:14] [ DEBUG] [Logueos:27] Registrando paciente nuevo
+[2021-10-0114:27:14] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0114:27:22] [ DEBUG] [Logueos:55] Eliminando paciente..
+[2021-10-0114:27:23] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0114:27:28] [ DEBUG] [Logueos:55] Eliminando paciente..
+[2021-10-0114:27:28] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:37:36] [ DEBUG] [Logueos:27] Registrando paciente nuevo
+[2021-10-0116:37:36] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:38:44] [ DEBUG] [Logueos:55] Eliminando paciente..
+[2021-10-0116:38:44] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:40:30] [ DEBUG] [Logueos:27] Registrando paciente nuevo
+[2021-10-0116:40:31] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:40:49] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:41:12] [ DEBUG] [Logueos:42] Modificando paciente existente
+[2021-10-0116:41:12] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:41:27] [ DEBUG] [Logueos:33] Consultando paciente existente
+[2021-10-0116:41:35] [ DEBUG] [Logueos:69] Consultando paciente por apellido
+[2021-10-0116:41:54] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:43:20] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:43:39] [ ERROR] [GlobalExceptionHandler:21] could not execute statement; SQL [n/a]; constraint ["FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (101)"; SQL statement:
+delete from odontologos where id=? [23503-200]]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[2021-10-0116:44:07] [ ERROR] [GlobalExceptionHandler:21] could not execute statement; SQL [n/a]; constraint ["FKQTJ6T7MULC2JMFKV92X4CTKWH: PUBLIC.TURNOS FOREIGN KEY(ODONTOLOGO_ID) REFERENCES PUBLIC.ODONTOLOGOS(ID) (101)"; SQL statement:
+delete from odontologos where id=? [23503-200]]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[2021-10-0116:58:35] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:59:11] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:59:18] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0116:59:35] [ DEBUG] [Logs turnos:29] Registrando turno nuevo
+[2021-10-0117:00:06] [ DEBUG] [Logs turnos:29] Registrando turno nuevo
+[2021-10-0117:04:04] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-10-0117:04:11] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:04:13] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-10-0117:04:17] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-10-0117:04:26] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-10-0117:07:38] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-10-0117:09:45] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:16:22] [ DEBUG] [Logueos:27] Registrando paciente nuevo
+[2021-10-0117:16:22] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:19:56] [ DEBUG] [logs odontologos:29] Registrando un nuevo odontologo
+[2021-10-0117:20:36] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:20:39] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:20:49] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:20:52] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:20:54] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:21:07] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:21:11] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:21:44] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:21:50] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:22:48] [ DEBUG] [Logueos:27] Registrando paciente nuevo
+[2021-10-0117:22:49] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:22:59] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:23:33] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:25:02] [ DEBUG] [Logueos:63] Consultando pacientes
+[2021-10-0117:25:06] [ ERROR] [GlobalExceptionHandler:21] Request method 'GET' not supported
+[2021-10-0117:25:10] [ DEBUG] [Logueos:63] Consultando pacientes

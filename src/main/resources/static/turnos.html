@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Lista de turnos</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="/js/deleteTurno.js"></script>
+    <script src="/js/getTurno.js"></script>
+</head>
+<body>
+<div class="container">
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link" href="/odontologos.html">Administrar odontólogos</a>
+            <a class="nav-link" href="/pacientes.html">Administrar pacientes</a>
+            <a class="nav-link" href="/altaTurnos.html">Registrar turno</a>
+        </li>
+    </ul>
+    <div id="div_turno_table">
+        <h2>Turnos registrados</h2>
+        <div class="row col-md-6 table-responsive" style="overflow: visible">
+            <table id="turnoTable" class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Fecha</th>
+                    <th>Odontologo</th>
+                    <th>Paciente</th>
+                    <th>Eliminar</th>
+                </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+    </div>
+</div>
+<hr>
+
+</div>
+</body>
+</html>
